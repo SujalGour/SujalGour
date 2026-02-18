@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sujal 👋</h1>
-🎓 Junior at UC San Diego, double majoring in Mathematics–Computer Science & Economics<br>💡 Interested in the intersection of quantitative finance, machine learning, and software engineering<br>🔍 Always looking for interesting problems<br>📈 Board Member at Triton Quantitative Trading<br>🏫 Teaching Assistant for Strategic Management<br>🤝 Open to internships, research collaborations, and cool side projects<br><br>🎯 A Few Highlights:<br>🏅 Won the Jane Street Estimathon<br>🏆 2x Hackathon Winner: Cal Hacks (Berkeley) and LPL Financial Hackarama<br>
+🎓 Junior at UC San Diego, double majoring in Mathematics–Computer Science & Economics<br>💡 Interested in the intersection of quantitative finance, machine learning, and software engineering<br>🔍 Always looking for interesting problems<br>📈 Board Member at Triton Quantitative Trading<br>🏫 Teaching Assistant for Strategic Management<br>🤝 Open to internships, research collaborations, and cool side projects<br><br>🎯🏅 Won the Jane Street Estimathon<br>🏆 2x Hackathon Winner: Cal Hacks (Berkeley) and LPL Financial Hackarama<br>
 
 
 ## 🌐 Socials:
